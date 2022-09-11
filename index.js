@@ -1,1 +1,2 @@
-merhaba
+//merhaba
+//yeni branch'a geçildi.
